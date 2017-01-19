@@ -1,11 +1,8 @@
-Battlecode Project Scaffold
+Battlecode 2017 Project Code
 ===========================
+Compeititon Information: https://www.battlecode.org/
 
-Here you'll find (almost) everything you need to write players for Battlecode
-2017.
-
-Other documentation and resources can be found at: https://www.battlecode.org/
-
+This project is based on the Battlecode-2017 Scaffold Project. Likewise, this readme is pretty much the same :3
 
 ## Overview
 
@@ -92,31 +89,6 @@ IDE, using a terminal, or mixing and matching.
 
 If you get errors while trying to execute Gradle tasks, make sure that you do not have the client open.
 
-
-### Using Eclipse
-
-- Install and open the latest version of Eclipse:
-  http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/neon2
-
-- Create a new Eclipse workspace. The workspace should NOT contain the
-  `battlecode-scaffold-2017` folder.
-
-- Run `File -> Import...`, and select `Gradle / Gradle Project`.
-
-- In the `Select root directory` field, navigate to `battlecode-scaffold-2017`, the directory containing this README. Finish importing the project.
-
-- Open `Window / Show View / Other...`. Select `Gradle / Gradle Tasks`.
-
-- You should now see a list of available Gradle tasks somewhere in the IDE. Open the `battlecode` group, and double-click `build`. This will run tests to verify that everything is working correctly
-
-- You're good to go; you can run other Gradle tasks using the other options in the "Gradle Tasks" menu. Note that you shouldn't need any task not in the `battlecode` group.
-
-#### Caveats
-
-- If you are unable to find import options for Gradle projects, you may be using an old version of Eclipse. Note that even old versions of Neon may lack the necessary plugins to import Gradle projects. If updating your Eclipse version still does not work, you may need to manually install the "Buildship" plugin from the Eclipse marketplace.
-
-- If you rename or add jar files to the lib directory, Eclipse gets confused.
-  You'll need to re-add them using `Project / Properties / Java Build Path`.
 
 ### Using IntelliJ IDEA
 - Install IntelliJ IDEA Community Edition:
