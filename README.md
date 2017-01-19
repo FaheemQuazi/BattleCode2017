@@ -2,6 +2,10 @@ Battlecode 2017 Project Code
 ===========================
 Compeititon Information: https://www.battlecode.org/
 
+I actually couldn't submit this to the competition, because I had something like 18 hours between when 
+I discovered this comeptition and the due date :(. This first commit is what I would have submitted.
+Everything after that consists of 
+
 This project is based on the Battlecode-2017 Scaffold Project. Likewise, this readme is pretty much the same :3
 
 ## Overview
